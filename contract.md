@@ -14,7 +14,7 @@ You **[client name]**, located at **[client address]** (“You”) are hiring me
 
 - **Design and develop a web site**
 
-For the estimated total price of **total** as outlined in my previous correspondence.
+For the estimated total price of $**[####]** as outlined in my previous correspondence.
 
 The site will launch by **[##/##/####]**. A prototype will be made available beforehand so we can kick tires and make final adjustments. For several days after launch I will also be on call to make tweaks and help fix problems that arise.
 
