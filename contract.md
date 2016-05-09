@@ -1,12 +1,4 @@
-# Contract Killer
-### The popular open-source contract for web professionals by [Stuff & Nonsense](https://stuffandnonsense.co.uk/)
-
-* Originally published: 23rd December 2008
-* Revised date: March 15th 2016 
-* [Original post](http://stuffandnonsense.co.uk/projects/contract-killer/)
-
-* * *
-
+# Contract
 
 **Between** [company name]
 
@@ -142,3 +134,7 @@ Signed by and on behalf of **customer name
 Date **date**
 
 Everyone should sign above and keep a copy for their records.
+
+* * *
+
+This document is based on [Contract Killer](https://gist.github.com/malarkey/4031110) the popular open-source contract for web professionals by [Stuff & Nonsense](https://stuffandnonsense.co.uk/). Originally published: 23rd December 2008. Revised date: March 15th 2016. [Original post](http://stuffandnonsense.co.uk/projects/contract-killer/).
