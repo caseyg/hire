@@ -2,7 +2,7 @@
 
 **Between** Casey Gollan
 
-**And** [client name].
+**And** [client name]
 
 ### Summary:
 
@@ -10,13 +10,13 @@ I’ll always do my best to fulfill your needs and meet your expectations, but i
 
 ### So in short;
 
-You **[client name]**, located at **[client address]** (“You”) are hiring me **Casey Gollan** (“Me or I”) to:
+You, **[client name]**, are hiring me, **Casey Gollan**, to:
 
 - **Design and develop a web site**
 
-For the estimated total price of $**[####]** as outlined in my previous correspondence.
+For the estimated total price of **$[####]** as outlined in my previous correspondence.
 
-The site will launch by **[##/##/####]**. A prototype will be made available beforehand so we can kick tires and make final adjustments. For several days after launch I will also be on call to make tweaks and help fix problems that arise.
+The site will launch by **h**. A prototype will be made available beforehand so we can kick tires and make final adjustments. For several days after launch I will also be on call to make tweaks and help fix problems that arise.
 
 The rate above is based on an estimate of approximately **[###] hours** of work across a **[##] week** timeframe. 
 
@@ -71,8 +71,6 @@ If you need me to test using a broader range of mobile devices, I can provide a 
 ### Technical support
 
 I don’t offer website hosting or email. You may already have hosting; if you do, great. If you don’t, I can set up an account for you at one of my preferred hosting providers. Then, the updates to, and management of that server will be up to you.
-
-If you need hosting set up, I can provide a separate estimate for that. 
 
 ### Changes and revisions
 
