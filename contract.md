@@ -16,7 +16,7 @@ You, **[client name]**, are hiring me, **Casey Gollan**, to:
 
 For the estimated total price of **$[####]** as outlined in my previous correspondence.
 
-The site will launch by **h**. A prototype will be made available beforehand so we can kick tires and make final adjustments. For several days after launch I will also be on call to make tweaks and help fix problems that arise.
+The site will launch by **[##/##/####]**. A prototype will be made available beforehand so we can kick tires and make final adjustments. For several days after launch I will also be on call to make tweaks and help fix problems that arise.
 
 The rate above is based on an estimate of approximately **[###] hours** of work across a **[##] week** timeframe. 
 
@@ -104,11 +104,9 @@ I reserve the right to display my work, including sketches, work-in-progress des
 
 ### Payment schedule
 
-I'm sure you understand how important it is as a small business that you pay the invoices that I send you promptly. As I’m also sure you’ll want to stay friends, you agree to stick tight to the following payment schedule.
+I'm sure you understand how important it is as a small business that you pay the invoices that I send you promptly. As I’m also sure you’ll want to stay friends, you agree to stick tight to the following payment schedule:
 
-**Payment details**
-
-**Payment schedule**
+I will invoice on **[##/##/####]** for **$[####]**, and on **[##/##/####]** for **$[####]**. Payments are due upon receipt of invoice.
 
 I issue invoices by email and accept payments online or by check. All proposals are quoted in USD.
 
@@ -125,9 +123,9 @@ Although the language is simple, the intentions are serious and this contract is
 ### The dotted line 
 
 Signed by and on behalf of **Casey Gollan**
-Signed by and on behalf of **customer name**
+Signed by and on behalf of **[client name]**
 
-Date **date**
+Date **[##/##/####]**
 
 Everyone should sign above and keep a copy for their records.
 
