@@ -29,8 +29,6 @@ Many projects result in repeat engagements and longterm working relationships.
 - Brian Funck
 - Caitrin Lynch
 - Christina Xu
-- Deb Chachra
-- Georgina Voss
 - Hope Gangloff
 - Marwa Helal
 - Sara Hendren

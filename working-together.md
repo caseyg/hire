@@ -27,7 +27,6 @@ For more on the run of a project, check out a typical [process &rarr;](/resource
         <a href="#sprint"  style="text-decoration:none;">
             <h3>Prototype Session<br><span style="font-weight: 100;">1 Day </span></h3>
             <img src="/assets/mind-expanding-5.jpg" alt="">
-            <p class="sans">$2,000</p>
             <p><small>SERVICES</small><br>
             strategy<br>
             prototyping</p>
@@ -56,7 +55,6 @@ For more on the run of a project, check out a typical [process &rarr;](/resource
         <a href="#project" style="text-decoration:none;">
             <h3>Research &amp; Development<br><span style="font-weight: 100">~4-8 Months </span></h3>
             <img src="/assets/dream_n0g0yuvxqns.jpg" alt="">
-            <p class="sans">Schedule a Consultation</p>
             <p><small>DELIVERABLES</small><br>
             vision &amp; strategy consultation<br>
             audience and field research<br>
@@ -75,8 +73,6 @@ For more on the run of a project, check out a typical [process &rarr;](/resource
         </a>
     </div>
 </div>
-
-They are not actually psychedlic.
 
 <hr>
 
