@@ -1,0 +1,9 @@
+{% assign pages = site.opinions %}
+
+<div id="opinions" class="center">
+  {% for my_page in pages %}
+    {% if my_page.title %}
+      <div class="mb1 p0 block"><a id="{{ my_page.title | slugify }}" href="{{ my_page.url }}#content" class="h2 sans p3 white block" style="color: white;">{{ my_page.title | escape }}</a></div><br>
+    {% endif %}
+  {% endfor %}
+</div>

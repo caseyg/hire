@@ -1,0 +1,12 @@
+{% assign pages = site.conversations %}
+
+<ul class="list-reset">
+  {% for my_page in pages %}
+    {% if my_page.title %}
+      <li class="mb1 p0"><a href="{{ my_page.url }}" class="px3 py1 bg-{{my_page.color}} white block" style="color: white;">
+        <h2 class="pb0 mb0">{{ my_page.title | escape }}</h2>
+        <p class="h2 pt0 mt0">{{ my_page.description }}</p>
+      </a></li>
+    {% endif %}
+  {% endfor %}
+</ul>

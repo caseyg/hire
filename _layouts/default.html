@@ -1,0 +1,175 @@
+<!doctype html>
+<html>
+<head>
+    <title>{{page.title}}</title>
+    <meta charset="utf-8" />
+    <meta name="description" content="Let's build a website! Casey Gollan is a designer, developer, and artist based in New York." />
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta name="author" content="Casey Gollan" />
+    <meta property="og:title" content="Hire Casey Gollan" />
+    <meta property="og:description" content="Let's build a website! Casey Gollan is a designer, developer, and artist based in New York." />
+    <link href="https://unpkg.com/basscss/css/basscss.min.css" rel="stylesheet">
+    <link href="https://unpkg.com/basscss-background-colors/css/background-colors.css" rel="stylesheet">
+    <link href="https://unpkg.com/basscss-colors/css/colors.css" rel="stylesheet">
+    <link href="https://unpkg.com/basscss-lighten/css/lighten.css" rel="stylesheet">
+    <link href="https://unpkg.com/basscss-base-forms@2.0.2/index.css" rel="stylesheet">
+    <link href="https://unpkg.com/basscss-btn/css/btn.css" rel="stylesheet">
+    <link href="https://unpkg.com/basscss-btn-outline/css/btn-outline.css" rel="stylesheet">
+    <link href="https://unpkg.com/basscss-btn-primary/css/btn-primary.css" rel="stylesheet">
+    <link href="https://unpkg.com/basscss-btn-sizes/css/btn-sizes.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.typekit.net/tun0rbf.css">
+    <style>
+        body {
+            font-family: "calluna",serif;
+            line-height: 1.25;
+            margin: 0;
+        }
+
+        h1, h2, h3, h4, h5, h6, .sans {
+            font-family: "ff-dagny-web-pro",sans-serif;
+        }
+        hr {
+            border: 0;
+            border-top: 1px solid;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        a:link,
+        a:visited {
+            color: inherit;
+            text-decoration-skip: ink;
+        }
+
+        #nav a:link,
+        #nav a:visited {
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        a.active:hover {
+            text-decoration: none;
+        }
+
+        .project-graph div {
+            flex-grow: 1;
+        }
+
+/*
+        #nav .hidee {
+            height: 0;
+            opacity: 0;
+            -webkit-animation: out .5s;
+        }
+
+        #nav:hover .hidee {
+            height: 50px;
+            opacity: 1;
+            -webkit-animation: in .5s;
+        }
+
+
+
+        @-webkit-keyframes in {
+            from {
+                position: absolute!important;
+                overflow: hidden;
+                opacity: 0;
+                height: 0;
+            }
+            to {
+                position: relative!important;
+                width: auto;
+                overflow: visible;
+                opacity: 1;
+                height: 50px;
+            }
+        }
+
+        @-webkit-keyframes out {
+            from {
+                position: relative!important;
+                width: auto;
+                overflow: visible;
+                opacity: 1;
+                height: 50px;
+            }
+            to {
+                position: absolute!important;
+                overflow: hidden;
+                opacity: 0;
+                height: 0;
+            }
+        }
+*/
+
+    .fake-browser-ui {
+        padding: 20px 0 0;
+        border-radius: 3px;
+        border-bottom: 2px solid #ccc;
+        background: #ddd;
+        display: inline-block;
+        position: relative;
+        line-height: 0;
+        box-shadow: 0 5px 10px rgba(0,0,0,.15);
+    }
+
+    .fake-browser-ui .frame {
+        display: block;
+        height: 15px;
+        position: absolute;
+        top: 5px;
+        left: 1px;
+    }
+
+    .fake-browser-ui span {
+        height: 8px;
+        width: 8px;
+        border-radius: 8px;
+        background-color: #eee;
+        border: 1px solid #dadada;
+        float: left;
+        margin: 0 0 0 4px;
+    }
+
+    .modal {
+        box-shadow: none!important;
+    }
+
+    #nav a {
+      font-weight: 100;
+      letter-spacing: 1px;
+    }
+
+    h1 {
+      font-weight: 400;
+    }
+    </style>
+</head>
+
+<body>
+    <div class="container max-width-4 px2" style="margin:auto;">
+        {{content}}
+    </div>
+    {% include footer.html %}
+</body>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/history.js/1.8/bundled-uncompressed/html4+html5/jquery.history.js"></script>
+
+<script type="text/javascript">
+    $('#opinions').on($.modal.BEFORE_OPEN, function(event, modal) {
+        console.log("meep");
+      History.pushState({state:1,rand:Math.random()}, "State 1", "?state=1");
+    });
+</script>
+</html>
