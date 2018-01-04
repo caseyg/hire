@@ -28,7 +28,7 @@ h1 {
 }
 </style>
 
-"There is no right way to build a website." Except these ways.
+Each project I work on is carried by conversation. And out of these conversations come approaches. Here, I'll think out loud about ways that websites work (and don't work).
 {:.h2 .center}
 
 {% include opinions.html %}
