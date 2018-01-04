@@ -73,7 +73,3 @@ For more on the run of a project, check out a typical [process &rarr;](/resource
         </a>
     </div>
 </div>
-
-<hr>
-
-{% include footer.html %}
