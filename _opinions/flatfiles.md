@@ -1,6 +1,7 @@
 ---
 title: Flatfiles are Forever
 color: gray
+published: false
 ---
 
 It's the year 3000 and the internet as we knew it no longer exists

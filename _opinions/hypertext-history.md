@@ -1,5 +1,6 @@
 ---
 title: Hypertext Has a History
+published: false
 ---
 
 Military History

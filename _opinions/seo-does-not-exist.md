@@ -1,6 +1,7 @@
 ---
 title: “S.E.O.” Does Not Exist
 color: olive
+published: false
 ---
 
 You're going to get sold snake oil

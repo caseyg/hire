@@ -1,6 +1,7 @@
 ---
 title: Writing is Design
 color: fuchsia
+published: false
 ---
 https://gist.github.com/nicoleslaw/2155621
 

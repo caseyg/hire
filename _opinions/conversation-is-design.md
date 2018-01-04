@@ -1,6 +1,7 @@
 ---
 title: Conversation is Design
 color: fuchsia
+published: false
 ---
 
 On large projects there might be a research phase which includes stakeholder interviews and formal reports

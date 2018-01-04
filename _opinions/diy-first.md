@@ -1,6 +1,7 @@
 ---
 title: First, D.I.Y.
 color: green
+published: false
 ---
 
 There's absolutely nothing wrong with off the shelf software. I use it myself, with clients, to prototype.

@@ -1,6 +1,7 @@
 ---
 title: Default to Open
 color: silver
+published: false
 ---
 
 if it isn't a secret, it's easier to not try to keep it one
