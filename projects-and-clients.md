@@ -1,6 +1,7 @@
 ---
+title: Projects
+position: 2
 layout: page
-title: Clients
 ---
 
 <style type="text/css">
@@ -8,6 +9,12 @@ body {
   background: azure;
 }
 </style>
+
+{% include projects.html %}
+
+<hr>
+
+<h1>Clients</h1>
 
 I genuinely ❤️ 🧡 💛 💚 💙 💜 the work that my clients' do! It's an honor to help play a small role in realizing the communication of their work.
 {:.h2}
@@ -50,8 +57,4 @@ Many projects result in repeat engagements and longterm working relationships.
 - School for Poetic Computation
 - Susan Inglett Gallery
 </div>
-</div>
-
-<div class="sans h3" markdown="1" style="columns:2; line-height: 1.5;">
-
 </div>
