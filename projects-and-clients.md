@@ -151,7 +151,7 @@ body {
       </div>
       <div class="caption">
         <h3><a href="http://inglettgallery.com">Susan Inglett Gallery + I.C. Editions</a></h3>
-        <p>Tailored content management for the 23 year program of exhibitions and editions at this New York gallery has helped improve presentation and consistency.</p>
+        <p>Built out custom-tailored content management for the 23 year program of exhibitions and editions at this New York gallery, helping improve presentation and consistency.</p>
       </div>
     </div>
   </div>
@@ -201,7 +201,7 @@ body {
       </div>
       <div class="caption">
         <h3><a href="http://marshelal.com">Marwa Helal</a></h3>
-        <p>Designed and developed a website for New York-based writer Marwa Helal, migrating from Wordpress to Siteleaf, and extracting a backlog of content from PDFs.</p>
+        <p>A website for writer Marwa Helal. Migrated existing content from Wordpress to Siteleaf, extracted a backlog of content from PDFs, and integrated photography work.</p>
       </div>
     </div>
   </div>
@@ -217,7 +217,7 @@ body {
       </div>
       <div class="caption">
         <h3><a href="http://www.tomhealy.us">Tom Healy</a></h3>
-        <p>Designed and developed a website for a writer and public speaker, featuring a custom taxonomy of writing.</p>
+        <p>A website for writer and public speaker Tom Healy, featuring a custom taxonomy of writing, by: Who, What, When, Where, and Why.</p>
       </div>
     </div>
   </div>
