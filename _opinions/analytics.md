@@ -1,5 +1,6 @@
 ---
 title: No Analytics (Without a Thesis)
+hide-title: please
 ---
 
 Google is spying on everyone

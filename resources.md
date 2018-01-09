@@ -14,12 +14,6 @@ body {
 
 {% include resources.html %}
 
-## Client Zone 🔒
-
-To inquire about working together using these materials, get in touch below.
-
-{% include client-resources.html %}
-
 ## Library
 
 Books that have influenced my thinking.
@@ -43,4 +37,12 @@ Books that have influenced my thinking.
 <figure><img src="/assets/library/evidence-tufte.jpg"></figure>
 <figure><img src="/assets/library/"></figure>
 </div>
+<!--
+Real world of Technology
+Speaking into Air
+Writing About Architecture
+Computers as Theater
+Close to the machine
+Reinventing comics
+-->
 </section>

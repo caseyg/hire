@@ -61,54 +61,6 @@
             flex-grow: 1;
         }
 
-/*
-        #nav .hidee {
-            height: 0;
-            opacity: 0;
-            -webkit-animation: out .5s;
-        }
-
-        #nav:hover .hidee {
-            height: 50px;
-            opacity: 1;
-            -webkit-animation: in .5s;
-        }
-
-
-
-        @-webkit-keyframes in {
-            from {
-                position: absolute!important;
-                overflow: hidden;
-                opacity: 0;
-                height: 0;
-            }
-            to {
-                position: relative!important;
-                width: auto;
-                overflow: visible;
-                opacity: 1;
-                height: 50px;
-            }
-        }
-
-        @-webkit-keyframes out {
-            from {
-                position: relative!important;
-                width: auto;
-                overflow: visible;
-                opacity: 1;
-                height: 50px;
-            }
-            to {
-                position: absolute!important;
-                overflow: hidden;
-                opacity: 0;
-                height: 0;
-            }
-        }
-*/
-
     .fake-browser-ui {
         padding: 20px 0 0;
         border-radius: 3px;
@@ -150,6 +102,54 @@
     h1 {
       font-weight: 400;
     }
+
+
+    .flower,
+    .flower {
+    	display: inline-block;
+        line-height: 1;
+    	-webkit-animation-name: spin;
+    	-webkit-animation-duration: 4000ms;
+    	-webkit-animation-iteration-count: infinite;
+    	-webkit-animation-timing-function: linear;
+    	-moz-animation-name: spin;
+    	-moz-animation-duration: 4000ms;
+    	-moz-animation-iteration-count: infinite;
+    	-moz-animation-timing-function: linear;
+    	-ms-animation-name: spin;
+    	-ms-animation-duration: 4000ms;
+    	-ms-animation-iteration-count: infinite;
+    	-ms-animation-timing-function: linear;
+
+    	animation-name: spin;
+    	animation-duration: 4000ms;
+    	animation-iteration-count: infinite;
+    	animation-timing-function: linear;
+    }
+
+    @-ms-keyframes spin {
+        from { -ms-transform: rotate(0deg); }
+        to { -ms-transform: rotate(360deg); }
+    }
+    @-moz-keyframes spin {
+        from { -moz-transform: rotate(0deg); }
+        to { -moz-transform: rotate(360deg); }
+    }
+    @-webkit-keyframes spin {
+        from { -webkit-transform: rotate(0deg); }
+        to { -webkit-transform: rotate(360deg); }
+    }
+    @keyframes spin {
+        from {
+            transform:rotate(0deg);
+        }
+        to {
+            transform:rotate(360deg);
+        }
+    }
+    .blocker {
+        background:url(/assets/twinkle.gif);
+    }
     </style>
 </head>
 
@@ -164,13 +164,4 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
-
-<script src="//cdnjs.cloudflare.com/ajax/libs/history.js/1.8/bundled-uncompressed/html4+html5/jquery.history.js"></script>
-
-<script type="text/javascript">
-    $('#opinions').on($.modal.BEFORE_OPEN, function(event, modal) {
-        console.log("meep");
-      History.pushState({state:1,rand:Math.random()}, "State 1", "?state=1");
-    });
-</script>
 </html>

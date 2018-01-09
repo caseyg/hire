@@ -1,6 +1,5 @@
 ---
 layout: page
-hide-title: please
 ---
 <style type="text/css">
 
@@ -37,9 +36,9 @@ h1 {
 }
 </style>
 
-<p class="h2 center">"There is no right way to build a website." —<em>Nobody Ever</em></p>
-
 {% assign pages = site.opinions %}
+
+<p class="sans center"><a href="/opinions">The Opinion Pages</a></p>
 
 <div id="opinions" class="center">
   {% for my_page in pages %}
@@ -54,7 +53,7 @@ h1 {
         <p class="center"><a href="/opinions#{{ page.title | slugify }}">Close</a></p>
       </div>
     {% else %}
-      <div class="mb1 p0 block"><a id="{{ my_page.title }}" href="{{ my_page.url }}#content" class="h2 sans p3 white block" style="color: white;">{{ my_page.title | escape }}</a></div><br>
+      <div class="mb1 p0 block"><a id="{{ my_page.title }}" href="{{ my_page.url }}" class="h2 sans p3 white block" style="color: white;">{{ my_page.title | escape }}</a></div><br>
     {% endif %}
   {% endfor %}
 </div>

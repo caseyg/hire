@@ -1,17 +1,17 @@
 ---
-title: Toolbelt
+title: Tools
 ---
 
 ![A better pen won't make me a better writer!](/assets/bart.gif)
 
-But good tools do make light work.
+(But good tools do make light work.)
 {:.h2}
 
 ## Design Tools
 
 - Pen and Paper
 - Adobe Creative Suite
-- Sketch or Figma
+- Sketch
 - Abstract
 - Dropbox Paper or Google Docs
 - iA Writer
@@ -19,15 +19,14 @@ But good tools do make light work.
 
 ## Business
 
-- Huzinger accounting
+- Huzinger Accountants
 - Cushion
 - Harvest
-- Contract killer
-- Mule questionnairre
+- Contract Killer
+- Mule Client Screener
 - Google Hangouts
-- Livescribe Pen
 - Dropbox
-- Things Todoist
+- Things
 
 ## Development Tools
 
@@ -50,4 +49,3 @@ But good tools do make light work.
 - Github Pages
 - Digital Ocean
 - A Small Orange
-- (the web host you already have)
