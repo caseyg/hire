@@ -13,10 +13,10 @@ body {
 # Hi, I’m <a href="/about" style="text-decoration:underline;">Casey</a>. Need a better website?
 {:.py4 .px4 .border .green .bg-white .inline-block}
 
-# Starting with [strategy](/resources/questions/), I'll help you design and build a site that's solid, reader-friendly, and easy to maintain.
+# Starting with [strategy](/resources/questions/), I design and build sites that're solid, reader-friendly, and easy to maintain.
 {:.py4 .px4 .border .green .bg-white .inline-block}
 
-# Together we'll workshop how to communicate your work online most effectively—<br><br>we'll sort unruly archives into intuitive structures and find nuanced forms for complex practices.
+# Together we can workshop how to communicate your work online most effectively—<br><br>sorting unruly archives into intuitive structures and finding nuanced forms for complex practices.
 {:.py4 .px4 .border .green .bg-white .inline-block}
 
 ## Got a project in mind? Get in touch, here: [casey@bullshit.systems](mailto:casey@bullshit.systems)
