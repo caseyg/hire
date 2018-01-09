@@ -11,7 +11,7 @@ body {
 }
 </style>
 
-# Hi, I’m <a href="/about" style="text-decoration:underline;">Casey</a>. Want to make a website?
+# Hi, I’m <a href="/about" style="text-decoration:underline;">Casey</a>. Need a better website?
 {:.py4 .px4 .border .green .bg-white .inline-block}
 
 # Starting with [strategy](/resources/questions/), I'll help you design and build a site that's solid, reader-friendly, and easy to maintain.
