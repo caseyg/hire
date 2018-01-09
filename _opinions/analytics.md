@@ -1,6 +1,7 @@
 ---
 title: No Analytics (Without a Thesis)
 hide-title: please
+published: false
 ---
 
 THIS IS STILL TKTKTK
