@@ -1,7 +1,6 @@
 ---
 title: Resources
 position: 4
-layout: page
 ---
 
 <style type="text/css">
@@ -10,13 +9,11 @@ body {
 }
 </style>
 
-## Public Documents 🌻
-
 {% include resources.html %}
 
-## Library
+# Library
 
-Books that have influenced my thinking.
+Each of these works has influenced my thinking on design and code in some way...
 
 <section>
 <div class="flex">
@@ -44,5 +41,16 @@ Writing About Architecture
 Computers as Theater
 Close to the machine
 Reinventing comics
+Molly Holzschlag
 -->
 </section>
+<!--
+# Archived Portfolios
+
+Starting in 2013, I wrote open cover letters which landed me many interesting interviews and great clients. They're archived here, alongside previous versions of my web design portfolio:
+
+- Hire Casey, _2017_
+- What Needs Doing?, _April 2014_
+- For Hire, _May 2013_
+
+-->
