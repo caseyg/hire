@@ -16,23 +16,22 @@ body {
 Each of these works has influenced my thinking on design and code in some way...
 
 <section>
-<div class="flex">
-<figure><img src="/assets/library/reading-hypertext-bernstein.png"></figure>
-<figure><img src="/assets/library/typographic-style-bringhurst.jpg"></figure>
-<figure><img src="/assets/library/nicely-said-fenton.jpg"></figure>
-<figure><img src="/assets/library/visions-chun.jpg"></figure>
+<div class="clearfix">
+<figure class="col col-4 md-col-2"><img src="/assets/library/reading-hypertext-bernstein.png"></figure>
+<figure class="col col-4 md-col-2"><img src="/assets/library/typographic-style-bringhurst.jpg"></figure>
+<figure class="col col-4 md-col-2"><img src="/assets/library/nicely-said-fenton.jpg"></figure>
+<figure class="col col-4 md-col-2"><img src="/assets/library/visions-chun.jpg"></figure>
 </div>
-<div class="flex">
-<figure><img src="/assets/library/systemantics-gall.jpg"></figure>
-<figure><img src="/assets/library/mutt-barringer.jpg"></figure>
-<figure><img src="/assets/library/metaphors-lakoff.jpg"></figure>
-<figure><img src="/assets/library/maps-turchi.jpg"></figure>
+<div class="clearfix">
+<figure class="col col-4 md-col-2"><img src="/assets/library/systemantics-gall.jpg"></figure>
+<figure class="col col-4 md-col-2"><img src="/assets/library/mutt-barringer.jpg"></figure>
+<figure class="col col-4 md-col-2"><img src="/assets/library/metaphors-lakoff.jpg"></figure>
+<figure class="col col-4 md-col-2"><img src="/assets/library/maps-turchi.jpg"></figure>
 </div>
-<div class="flex">
-<figure><img src="/assets/library/language-alexander.jpg"></figure>
-<figure><img src="/assets/library/imprint-eatock.jpg"></figure>
-<figure><img src="/assets/library/evidence-tufte.jpg"></figure>
-<figure><img src="/assets/library/"></figure>
+<div class="clearfix">
+<figure class="col col-4 md-col-2"><img src="/assets/library/language-alexander.jpg"></figure>
+<figure class="col col-4 md-col-2"><img src="/assets/library/imprint-eatock.jpg"></figure>
+<figure class="col col-4 md-col-2"><img src="/assets/library/evidence-tufte.jpg"></figure>
 </div>
 <!--
 Real world of Technology

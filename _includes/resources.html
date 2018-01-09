@@ -1,9 +1,9 @@
 {% assign pages = site.resources %}
 
-<ul class="list-reset flex">
+<ul class="list-reset clearfix">
   {% for my_page in pages %}
     {% if my_page.title %}
-      <li><a class="block border px3 m1 p1 h3 bg-white" style="padding-top: 50px; padding-bottom: 100px; box-shadow: 7px 7px 0px rgba(0,0,0,.10); text-decoration: none; border-color: silver;" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+      <li><a class="block border px3 m1 p1 h3 bg-white col md-col-2" style="padding-top: 50px; padding-bottom: 100px; box-shadow: 7px 7px 0px rgba(0,0,0,.10); text-decoration: none; border-color: silver;" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>
