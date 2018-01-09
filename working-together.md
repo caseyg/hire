@@ -9,7 +9,7 @@ body {
 }
 </style>
 
-Through a series of conversations, exercises, and feedback sessions, I ask questions that help articulate your audiences and goals; draw out the stories and aesthetics behind your work; sketch out a structure and form that communicates effectively; and build you a website that is solid, reader-friendly, and easy to maintain.
+My favorite kind of project is highly collaborative and process-oriented, unfolding through a series of conversations, exercises, and feedback sessions. I ask questions that help articulate your audiences and goals; draw out the stories and aesthetics behind your work; sketch out a structure and form that communicates effectively; and build you a website that is solid, reader-friendly, and easy to maintain.
 {:.h2}
 
 For more on the run of a project, check out a typical [process &rarr;](/resources/process-and-glossary/)
