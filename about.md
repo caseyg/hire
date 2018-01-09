@@ -25,4 +25,6 @@ My week is split about half-and-half: when I'm not working on design/development
 My writing on design and technology has been published at [Rhizome](http://rhizome.org/editorial/2012/jan/23/book-review-programmed-visions-software-and-memory/) and [Poool](http://pooool.info/user-generated-content/). I've participated in [Triple Canopy’s networked publishing intensive](https://www.canopycanopycanopy.com/contents/a-note-on-triple-canopys-summer-intensive) and the [New School Publishing Institute](https://www.newschool.edu/publishing-institute/). I helped start the [School for Poetic Computation](http://sfpc.io/), as its first administrator, experimenting with [open-source finances](https://github.com/SFPC/finance-and-administration).
 </div>
 
-![](/assets/casey.jpeg)
+![](/assets/ride-1.jpeg)
+
+![](/assets/ride-2.jpg)
