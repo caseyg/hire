@@ -7,7 +7,7 @@ position: 2
 
 <div class="clearfix">
 
-  <div class="p1 col col-4">
+  <div class="p1 col sm-col-4">
     <div class="thumbnail">
       <div class="fake-browser-ui">
           <div class="frame">
@@ -27,7 +27,7 @@ position: 2
     </div>
   </div>
 
-  <div class="p1 col col-4">
+  <div class="p1 col sm-col-4">
     <div class="thumbnail">
       <div class="p1">
         <div class="thumbnail">
@@ -50,7 +50,7 @@ position: 2
     </div>
   </div>
 
-  <div class="p1 col col-4">
+  <div class="p1 col sm-col-4">
     <div class="thumbnail">
       <div class="fake-browser-ui">
           <div class="frame">
@@ -73,12 +73,12 @@ position: 2
 <hr>
 
 <div class="clearfix">
-  <div class="p1 col col-4">
+  <div class="p1 col sm-col-12 md-col-6">
     <h2>Other Engagements:</h2>
-    <p class="h3 pr2">Most projects come to fruition over the course of a 2-6 month <a href="/resources/process-and-glossary">design and development process</a>, however I also offer a <a href="/working-together/"> one-day prototype session</a> to rapidly explore new strategies and generate a single-page site.<br><br>I'd love to help you build your skills, too. I'm happy to <a href="https://en.wikipedia.org/wiki/Pair_programming">pair-program</a> or incorporate trainings around any specific web skills you'd like to pick up.</p>
+    <p class="h3 pr2">Most projects come to fruition over the course of a 2-6 month <a href="/resources/process-and-glossary">design and development process</a>, however I also offer a <a href="/working-together/"> one-day prototype session</a> to rapidly explore new strategies and generate a single-page site.<br><br>I'd love to help you build your web skills, too — whether that means learning to work with a new content management system or <a href="https://en.wikipedia.org/wiki/Pair_programming">pair-programming</a> to help with any stumbling blocks as you code your own site.</p>
   </div>
 
-  <div class="p1 col col-4">
+  <div class="p1 col sm-col-6 md-col-3">
     <h2>Prototyping</h2>
     <div class="thumbnail">
       <a href="http://accessibleicon.org"><img src="/2017/img/accessibleicon.png" width="400" height="267" alt="..."></a>
@@ -90,13 +90,13 @@ position: 2
   </div>
 
   <div class="clearfix">
-    <div class="p1 col col-4">
+    <div class="p1 col sm-col-6 md-col-3">
       <h2>Pair-Programming</h2>
       <div class="thumbnail">
         <a href="http://multientry.com"><img src="/2017/img/multientry.png" width="400" height="267" alt="..."></a>
         <div class="caption">
           <h3><a href="http://multientry.com">Multi Entry</a></h3>
-          <p>Pair-programmed with ethnographer Christina Xu, helping set up a site documenting research into China's creative culture. Answered questions and solved problems together as they arose.</p>
+          <p>Pair-programmed with ethnographer <a href="http://christinaxu.org">Christina Xu</a>, helping set up a site documenting research into China's creative culture. Answered questions and solved problems together as they arose.</p>
         </div>
       </div>
     </div>
@@ -108,7 +108,7 @@ position: 2
 <h2>Selected Projects</h2>
 
 <div class="clearfix">
-  <div class="p1 col col-4">
+  <div class="p1 col sm-col-4">
     <div class="thumbnail">
       <a href="http://sarahendren.com"><img src="/2017/img/sarahendren.png" width="400" height="267" alt="..."></a>
       <div class="caption">
@@ -117,7 +117,7 @@ position: 2
       </div>
     </div>
   </div>
-  <div class="p1 col col-4">
+  <div class="p1 col sm-col-4">
     <div class="thumbnail">
       <a href="http://inglettgallery.com"><img src="/2017/img/inglettgallery.png" width="400" height="267" alt="..."></a>
       <div class="caption">
@@ -126,7 +126,7 @@ position: 2
       </div>
     </div>
   </div>
-  <div class="p1 col col-4">
+  <div class="p1 col sm-col-4">
     <div class="thumbnail">
       <a href="http://brianfunck.com"><img src="/2017/img/brianfunck.png" width="400" height="267" alt="..."></a>
       <div class="caption">
@@ -137,7 +137,7 @@ position: 2
   </div>
 </div>
 <div class="clearfix">
-  <div class="p1 col col-4">
+  <div class="p1 col sm-col-4">
     <div class="thumbnail">
     <a href="http://sfpc.io"><img src="/2017/img/sfpc.png" width="400" height="267" alt="..."></a>
       <div class="caption">
@@ -146,7 +146,7 @@ position: 2
       </div>
     </div>
   </div>
-  <div class="p1 col col-4">
+  <div class="p1 col sm-col-4">
     <div class="thumbnail">
       <a href="http://marshelal.com"><img src="/2017/img/marshelal.png" width="400" height="267" alt="..."></a>
       <div class="caption">
@@ -155,7 +155,7 @@ position: 2
       </div>
     </div>
   </div>
-  <div class="p1 col col-4">
+  <div class="p1 col sm-col-4">
     <div class="thumbnail">
       <a href="http://www.tomhealy.us"><img src="/2017/img/tomhealy.png" width="400" height="267" alt="..."></a>
       <div class="caption">
