@@ -13,12 +13,12 @@ body {
 # Casey Gollan
 
 <div class="h3" markdown="1">
-Hi, I've been making websites for work for nearly a decade (and almost twice as long for fun). And I'm a generalist who enjoys working across disciplines to see a project through from end-to-end.
+I've been making websites for work for nearly a decade (and almost twice as long for fun).
 {:.h2}
 
-Over the last several years, I've worked primarily with clients in the fields of education and art on how to use design to communicate strategically online.
+Over the last several years, I've worked primarily with clients in the fields of education and art. I'm a generalist who enjoys working across disciplines to see a project through from end-to-end.
 
-Aside from web design, I'm experienced in print design and production. I recently designed a [400-page book on Nordic Larp](http://knutepunkt.org/book/), and helped start a risograph press in Brooklyn.
+In addition to web design, I'm experienced in print design and production. I recently designed a [400-page book on Nordic Larp](http://knutepunkt.org/book/), and helped start a risograph press in Brooklyn.
 
 My week is split about half-and-half: when I'm not working on design/development projects, I'm a working artist. I currently [teach](http://projectsthecooperunion.wiki/view/Main_Page) at The Cooper Union as a visiting artist in the School of Art, recently exhibited in the [Whitney Biennial](whitney.org/Exhibitions/2017Biennial#artists-22), and was a 2015-17 Fellow at the [Vera List Center for Art and Politics](http://www.veralistcenter.org/engage/people/1991/victoria-sobel-and-casey-gollan/) at The New School.
 
