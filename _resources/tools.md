@@ -9,43 +9,50 @@ title: Tools
 
 ## Design Tools
 
-- Pen and Paper
-- Adobe Creative Suite
-- Sketch
-- Abstract
-- Dropbox Paper or Google Docs
-- iA Writer
-- Canon G9X
+- Pen and Paper :-)
+- [Questions](http://localhost:4000/resources/questions/)
+- [Chrome Developer Tools](https://developer.chrome.com/devtools)
+- [Adobe Creative Suite](http://adobe.com/)
+- [Sketch](https://www.sketchapp.com/) and [Abstract](http://goabstract.com/)
+- [Canon G9X](https://thewirecutter.com/reviews/best-point-and-shoot-under-500/)
+- [Nicely Said](http://www.nicelysaid.co/research-questions)
 
 ## Business
 
-- Huzinger Accountants
-- Cushion
-- Harvest
-- Contract Killer
-- Mule Client Screener
-- Google Hangouts
-- Dropbox
-- Things
+- [Things](https://culturedcode.com/things/)
+- [Cushion](http://cushionapp.com/)
+- [Huzinger Accounting](http://hunzingerpc.com/)
+- [Contract Killer](/resources/contract/)
+- [Mule Client Screener](https://muledesign.com/designbook/screener.html)
+
+## Collaboration
+
+- [Dropbox Paper](https://paper.dropbox.com/) or [Google Docs](https://docs.google.com/)
+- [Google Hangouts](https://hangouts.google.com/)
+- [Dropbox](http://dropbox.com/)
+- [Github](https://github.com)
 
 ## Development Tools
 
-- Git
-- Github
-- Atom
-- Sublime Text
-- MAMP
-- Terminal
+- [Git](http://git-scm.org/)
+- [Atom](https://atom.io/) and [Sublime Text](https://www.sublimetext.com/)
+- [MAMP](https://www.mamp.info/en/)
+- [Gulp](https://gulpjs.com/)
+- Terminal :-)
 
 ## Content Management Systems
 
-- Kirby
-- Siteleaf
-- Cargo
+- [Siteleaf](http://siteleaf.com/) or [NetlifyCMS](https://www.netlifycms.org/)
+- [Kirby](http://getkirby.com/)
+- [Cargo](http://cargocollective.com/)
 
-## Web Hosting
+## Web Hosting and DNS
 
-- Netlify
-- Github Pages
-- Digital Ocean
-- A Small Orange
+- [Netlify](http://netlify.com/) or [Github Pages](https://pages.github.com)
+- [Digital Ocean](https://www.digitalocean.com/)
+- [Gandi](https://www.gandi.net/en)
+
+## Useful Frameworks
+
+- [Bootstrap](https://getbootstrap.com/)
+- [Basscss](http://basscss.com/)
