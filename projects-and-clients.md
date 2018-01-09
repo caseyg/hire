@@ -43,7 +43,7 @@ position: 2
 
           <div class="caption">
             <h3><a href="http://engineeringathome.org">Engineering at Home</a></h3>
-            <p>Reframing academic research for a broad internet readership, this interactive archive draws upon the design of 1940's-60's pharmaceutical materials.</p><p>The project will be featured in a forthcoming exhibition on the future of design at the Victoria & Albert Museum in London.</p>
+            <p>Reframing academic research for a broad internet readership, this interactive archive draws upon the design of 1940's-60's pharmaceutical materials.</p><p>The project went on to be featured in an exhibition on the future of design at the Victoria & Albert Museum in London.</p>
           </div>
         </div>
       </div>
@@ -63,7 +63,7 @@ position: 2
     </div>
       <div class="caption">
         <h3><a href="http://aplusa.org">Adaptation + Ability Group</a></h3>
-        <p>The first in a three-site framework, a+a is home to the research of Olin College's lab on technology + the body. The site experiments with the aesthetics and functionality of accesible websites, integrating with the other work of director <a href="http://sarahendren.com">Sara Hendren</a>.</p>
+        <p>The first in a three-site framework, a+a is home to the research of Olin College's lab on technology and the body. The site experiments with the aesthetics and functionality of accessible websites, integrating with other projects by director <a href="http://sarahendren.com">Sara Hendren</a>.</p>
       </div>
     </div>
   </div>
@@ -73,7 +73,12 @@ position: 2
 <hr>
 
 <div class="clearfix">
-  <div class="p1 col col-6">
+  <div class="p1 col col-4">
+    <h2>Other Engagements:</h2>
+    <p class="h3 pr2">Most projects come to fruition over the course of a 2-6 month <a href="/resources/process-and-glossary">design and development process</a>, however I also offer a <a href="/working-together/"> one-day prototype session</a> to rapidly explore new strategies and generate a single-page site.<br><br>I'd love to help you build your skills, too. I'm happy to <a href="https://en.wikipedia.org/wiki/Pair_programming">pair-program</a> or incorporate trainings around any specific web skills you'd like to pick up.</p>
+  </div>
+
+  <div class="p1 col col-4">
     <h2>Prototyping</h2>
     <div class="thumbnail">
       <a href="http://accessibleicon.org"><img src="/2017/img/accessibleicon.png" width="400" height="267" alt="..."></a>
@@ -85,7 +90,7 @@ position: 2
   </div>
 
   <div class="clearfix">
-    <div class="p1 col col-6">
+    <div class="p1 col col-4">
       <h2>Pair-Programming</h2>
       <div class="thumbnail">
         <a href="http://multientry.com"><img src="/2017/img/multientry.png" width="400" height="267" alt="..."></a>
