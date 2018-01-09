@@ -63,7 +63,7 @@ layout: page
       <a href="http://aplusa.org"><img src="/2017/img/aplusa.png" width="400" height="267" alt="..."></a>
     </div>
       <div class="caption">
-        <h3><a href="http://aplusa.org">Adaptation + Ability Group<br>&amp; Sara Hendren</a></h3>
+        <h3><a href="http://aplusa.org">Adaptation + Ability Group</a></h3>
         <p>The first in a three-site framework, a+a is home to the research of Olin College's lab on technology + the body. The site experiments with the aesthetics and functionality of accesible websites, integrating with the other work of director <a href="http://sarahendren.com">Sara Hendren</a>.</p>
       </div>
     </div>
