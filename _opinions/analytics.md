@@ -3,6 +3,10 @@ title: No Analytics (Without a Thesis)
 hide-title: please
 ---
 
+THIS IS STILL TKTKTK
+
+(Working on it, before launch. And have about 10 more posts lined up for the coming weeks.)
+
 Google is spying on everyone
 
 Adds to page load
