@@ -22,44 +22,39 @@ For more on the run of a project, check out a typical [process &rarr;](/resource
 # I offer three main types of engagements.
 {:.center .h1}
 
-<div class="flex center sans">
-    <div class="mr2">
-        <a href="#sprint"  style="text-decoration:none;">
+<div class="clearfix center sans">
+    <div class="col sm-col-4 pr3">
             <h3>Prototype Session<br><span style="font-weight: 100;">1 Day </span></h3>
+            <p>We'll spend one day together workshopping a design problem and building a one-page prototype.</p>
             <img src="/assets/mind-expanding-5.jpg" alt="">
-            <p><small>SERVICES</small><br>
-            strategy<br>
-            prototyping</p>
             <p><small>DELIVERABLES</small><br>
             intro to content strategy<br>
             outlining a vision &amp; strategy<br>
             one page no-CMS prototype<br>
             resources for D.I.Y. next steps</p>
-        </a>
     </div>
-    <div class="mx2">
-        <a href="#website" style="text-decoration:none;">
+    <div class="col sm-col-4 pr1 px1">
             <h3>Website<br><span style="font-weight: 100;">~2-3 Months</span></h3>
+            <p>Over the course of several months we'll plan, research, design and build a website that effectively communicates your work.</p>
             <img src="/assets/dream_quqabq3hwb6.jpg" alt="">
             <p><small>DELIVERABLES</small><br>
             vision &amp; strategy consultation<br>
             content strategy workshop<br>
-            design research deck<br>
+            design research<br>
             bi-weekly work sessions<br>
             custom, updatable website<br>
             software training<br>
             debrief</p>
-        </a>
     </div>
-    <div class="ml2">
-        <a href="#project" style="text-decoration:none;">
+    <div class="col sm-col-4 pl3">
             <h3>Research &amp; Development<br><span style="font-weight: 100">~4-8 Months </span></h3>
+            <p>For larger projects, we'll conduct extensive research and testing, and I'll ongoingly improve your website.</p>
             <img src="/assets/dream_n0g0yuvxqns.jpg" alt="">
             <p><small>DELIVERABLES</small><br>
             vision &amp; strategy consultation<br>
             audience and field research<br>
             content strategy workshop<br>
-            design research deck<br>
+            design research<br>
             design &amp; content styleguide<br>
             content migration<br>
             bi-weekly work sessions<br>
@@ -70,6 +65,5 @@ For more on the run of a project, check out a typical [process &rarr;](/resource
             analytics and testing<br>
             debrief
             </p>
-        </a>
     </div>
 </div>
