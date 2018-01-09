@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Working Together
 position: 3
 ---

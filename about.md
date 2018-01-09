@@ -1,5 +1,4 @@
 ---
-layout: page
 title: About Casey
 position: 4
 hide-title: please

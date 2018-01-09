@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Hire Casey
 position: 1
 hide-title: please

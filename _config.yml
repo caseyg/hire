@@ -30,6 +30,7 @@ theme: minima
 permalink: pretty
 plugins:
   - jekyll-feed
+  - jekyll-default-layout
 
 collections:
   opinions:

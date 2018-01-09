@@ -154,7 +154,28 @@
 
 <body>
     <div class="container max-width-4 px2" style="margin:auto;">
+
+        <div class="clearfix sans pt2 pb2" id="nav" style="line-height:1.5;">
+          <section class="col col-12 sm-col-4 mr-auto">
+            <a href="/">Hire Casey</a><br>
+            <a href="/about">About Me</a>
+          </section>
+          <section class="col col-12 sm-col-4 ml-auto mr-auto center">
+            <a href="/projects-and-clients">Projects and Clients</a><br>
+            <a href="/working-together">Working Together</a><br>
+          </section>
+          <section class="col col-12 sm-col-4 ml-auto right-align">
+            <a href="/opinions">Opinion Pages</a><br>
+            <a href="/resources">Resources and Library</a><br>
+          </section>
+        </div>
+
+        {% if page.hide-title != "please" %}
+          <h1>{{ page.title }}</h1>
+        {% endif %}
+
         {{content}}
+
     </div>
     <div class="bg-lightgray olive p3 center" style="height:50vh;">
 

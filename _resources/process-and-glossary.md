@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Process & Glossary"
 position: 3
 ---

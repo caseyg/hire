@@ -1,7 +1,6 @@
 ---
 title: Conversations on Web Design
 position: 2
-layout: page
 ---
 
 <style type="text/css">

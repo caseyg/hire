@@ -1,7 +1,6 @@
 ---
 title: The Opinion Pages
 position: 2
-layout: page
 ---
 
 <style type="text/css">

@@ -1,7 +1,6 @@
 ---
 title: Projects
 position: 2
-layout: page
 ---
 
 <h2>Recent Design &amp; Development Work</h2>
