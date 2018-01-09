@@ -18,3 +18,8 @@ defaults:
       type: opinions
     values:
       layout: opinion
+  - scope:
+      path: ""
+      type: resources
+    values:
+      layout: default
