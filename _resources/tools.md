@@ -2,6 +2,12 @@
 title: Tools
 ---
 
+<style>
+body {
+  background: lavenderblush;
+}
+</style>
+
 ![A better pen won't make me a better writer!](/assets/bart.gif)
 
 (But good tools do make light work.)
