@@ -14,7 +14,7 @@ There's more to design than meets the eye! 👀 In fact — after negotiating a 
 
 (Of course, the process for every project is a little bit different, but what you see below is a pretty typical outline.)
 
-<div class="flex center bg-fuchsia white my4 project-graph">
+<div class="sm-flex center bg-fuchsia white my4 project-graph">
   <div class="bg-lighten-4">
     <h2>1.<br>Plan</h2>
   </div>
