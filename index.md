@@ -90,7 +90,7 @@ body {
 </div>
 </div>
 
-# Got a project in mind? Get in touch, here: [casey@bullshit.systems](mailto:casey@bullshit.systems)
+# Got a project in mind? Get in touch, by email: [casey@bullshit.systems](mailto:casey@bullshit.systems)
 {:.py3 .green .inline-block}
 
 # Or keep exploring this site. Here, you'll find my <a href="/projects-and-clients" style="text-decoration:underline;">work</a>, and more <a href="/about">about me</a>, my <a href="/working-together" style="text-decoration:underline;">services</a>, as well as my <a href="/resources/process-and-glossary" style="text-decoration:underline;">process</a> and other <a href="/resources">resources</a>.

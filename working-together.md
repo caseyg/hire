@@ -50,9 +50,9 @@ For more on the run of a project, check out a typical [process &rarr;](/resource
             <p>For larger projects, we'll conduct extensive research and testing, and I'll ongoingly improve your website.</p>
             <img src="/assets/dream_n0g0yuvxqns.jpg" alt="">
             <p><small>DELIVERABLES</small><br>
-            vision &amp; strategy consultation<br>
+            articulating a vision &amp; strategy<br>
             audience and field research<br>
-            content strategy workshop<br>
+            content strategy<br>
             design research<br>
             design &amp; content styleguide<br>
             content migration<br>
