@@ -5,7 +5,7 @@ position: 3
 
 <style type="text/css">
 body {
-  background-color: azure;
+  background-color: lavenderblush;
 }
 </style>
 
