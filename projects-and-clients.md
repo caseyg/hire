@@ -76,7 +76,7 @@ body {
 <div class="clearfix">
   <div class="p1 col sm-col-12 md-col-6">
     <h2>Other Engagements:</h2>
-    <p class="h3 pr2">Most projects come to fruition over the course of a 2-6 month <a href="/resources/process-and-glossary">design and development process</a>, however I also offer a <a href="/working-together/"> one-day prototype session</a> to rapidly explore new strategies and generate a single-page site.<br><br>I'd love to help you build your web skills, too — whether that means learning to work with a new content management system or pair-programming so you can vault over the stumbling blocks as you code your own site.</p>
+    <p class="h3 pr2">Most projects come to fruition over the course of a 2-6 month <a href="/resources/process-and-glossary">design and development process</a>, however I also offer a one-day prototype session to rapidly explore new strategies and generate a single-page site.<br><br>I'd love to help you build your web skills, too — whether that means learning to work with a new content management system or pair-programming so you can vault over the stumbling blocks as you code your own site.</p>
   </div>
 
   <div class="p1 col sm-col-6 md-col-3">
