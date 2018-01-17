@@ -82,7 +82,7 @@ body {
 </div>
 <div class="col sm-col-6 testimonial">
 <div class="px3 py2 bg-green white" markdown="1">
-**Casey developed a website for us that works as good as it looks. Back to front, the system is a work of Art!**
+**Casey developed a website for us that works as good as it looks. Back to front, the system is a work of art!**
 
 —Susan Inglett, _Gallerist_
 {:.right-align}
