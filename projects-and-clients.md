@@ -76,10 +76,10 @@ body {
 <div class="clearfix">
   <div class="p1 col sm-col-12 md-col-6">
     <h2>Other Engagements:</h2>
-    <p class="h3 pr2">Most projects come to fruition over the course of a 2-6 month <a href="/resources/process-and-glossary">design and development process</a>, however I also offer a one-day prototype session to rapidly explore new strategies and generate a single-page site.<br><br>I'd love to help you build your web skills, too — whether that means learning to work with a new content management system or pair-programming so you can vault over the stumbling blocks as you code your own site.</p>
+    <p class="h2 pr3">Most projects come to fruition over the course of a 2-6 month <a href="/resources/process-and-glossary">design and development process</a>, however I also offer a one-day prototype session to rapidly explore new strategies and generate a single-page site.<br><br>I'd love to help you build your web skills, too — whether that means learning to work with a new content management system or pair-programming so you can vault over the stumbling blocks as you code your own site.</p>
   </div>
 
-  <div class="p1 col sm-col-6 md-col-3">
+  <div class="p1 col sm-col-12 md-col-6">
     <h2>Prototyping</h2>
     <div class="thumbnail">
       <div class="fake-browser-ui">
@@ -96,24 +96,31 @@ body {
       </div>
     </div>
   </div>
+</div>
 
-  <div class="clearfix">
-    <div class="p1 col sm-col-6 md-col-3">
-      <h2>Pair-Programming</h2>
-      <div class="thumbnail">
-      <div class="fake-browser-ui">
-          <div class="frame">
-              <span></span>
-              <span></span>
-              <span></span>
-          </div>
-          <a href="http://multientry.com"><img src="/2017/img/multientry.png" width="400" height="267" alt="..."></a>
+<div class="clearfix">
+  <div class="p1 col md-col-6">
+    <h2>Pair-Programming</h2>
+    <div class="thumbnail">
+    <div class="fake-browser-ui">
+        <div class="frame">
+            <span></span>
+            <span></span>
+            <span></span>
         </div>
-        <div class="caption">
-          <h3><a href="http://multientry.com">Multi Entry</a></h3>
-          <p>Pair-programmed with ethnographer <a href="http://christinaxu.org">Christina Xu</a>, helping set up a site documenting research into China's creative culture. Answered questions and solved problems together as they arose.</p>
-        </div>
+        <a href="http://multientry.com"><img src="/2017/img/multientry.png" width="400" height="267" alt="..."></a>
       </div>
+      <div class="caption">
+        <h3><a href="http://multientry.com">Multi Entry</a></h3>
+        <p>Pair-programmed with ethnographer <a href="http://christinaxu.org">Christina Xu</a>, helping set up a site documenting research into China's creative culture. Answered questions and solved problems together as they arose.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col md-col-6">
+    <div class="bg-aqua white m3 px3 py2 testimonial" style="font-size:18px;">
+    <p class="bold">As someone with light technical skills, I wanted a website I felt comfortable tweaking on my own after launch, but I was also working on a deadline and overwhelmed by the number of technical choices I needed to make.</p>
+    <p class="bold">Pair programming with Casey turned out to be exactly what I needed. He quickly identified the perfect CMS for me based on my needs and skill level, handled the annoying parts of setup and deployment, and suggested solutions for problems I didn’t even know how to articulate. I walked away with a website in record time, as well as enough familiarity to roll my own sites in the future.</p>
+    <p class="right-align">—Christina Xu, <em>Ethnographer</em></p>
     </div>
   </div>
 </div>
@@ -227,5 +234,5 @@ body {
 
 <h1>Clients</h1>
 
-[20x200](http://20x200.com), [American Ethnological Society](http://americanethnologist.org), [Andrew Badr](http://andrewbadr.com), [Atavist Books](https://atavist.com/), [Benjamin Degen](http://benjamindegen.com/), [Brian Funck](http://brianfunck.com), [Caitrin Lynch](http://engineeringathome.org), [Christina Xu](http://multientry.com), [Etsy](http://etsy.com), [Eyebeam](http://eyebeam.org/), [Girl Walk//All Day](https://www.kickstarter.com/projects/720656387/girl-walk-all-day), [Hope Gangloff](http://www.hopegangloff.net/), [Marwa Helal](http://marshelal.com/), [Olin College](http://aplusa.org/), [OpenNews Source](https://source.opennews.org/), [Pooool](http://pooool.info/), [Rodi Gallery](http://www.rodigallery.com/), [Sara Hendren](http://sarahendren.com), [School for Poetic Computation](http://sfpc.io), [Susan Inglett Gallery](http://inglettgallery.com), [Tom Healy](http://tomhealy.us)
+[20x200](http://20x200.com), [American Ethnological Society](http://americanethnologist.org), [Andrew Badr](http://andrewbadr.com), [Atavist Books](https://atavist.com/), [Benjamin Degen](http://benjamindegen.com/), [Brian Funck](http://brianfunck.com), [Caitrin Lynch](http://engineeringathome.org), [Christina Xu](http://multientry.com), [Etsy](http://etsy.com), [Eyebeam](http://eyebeam.org/), [Girl Walk//All Day](https://www.kickstarter.com/projects/720656387/girl-walk-all-day), [Hope Gangloff](http://www.hopegangloff.net/), [Jennifer Brook](http://jenniferbrook.com), [Marwa Helal](http://marshelal.com/), [Olin College](http://aplusa.org/), [OpenNews Source](https://source.opennews.org/), [Pooool](http://pooool.info/), [Rodi Gallery](http://www.rodigallery.com/), [Sara Hendren](http://sarahendren.com), [School for Poetic Computation](http://sfpc.io), [Susan Inglett Gallery](http://inglettgallery.com), [Tom Healy](http://tomhealy.us)
 {:.h2}
