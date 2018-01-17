@@ -158,13 +158,13 @@
 
         <div class="clearfix sans pt2 pb2" id="nav" style="line-height:1.5;">
           <section class="col col-4 p0 m0">
-            <a href="/">Hire Casey</a><br>
+            <a href="/" {% if page.title == "Hire Casey" %}style="text-decoration:underline;"{% endif %}>Hire Casey</a><br>
           </section>
           <section class="col col-4 p0 m0 center">
-            <a href="/projects-and-clients">Projects + Clients</a><br>
+            <a href="/projects-and-clients" {% if page.title == "Projects" %}style="text-decoration:underline;"{% endif %}>Projects + Clients</a><br>
           </section>
           <section class="col col-4 p0 m0 right-align">
-            <a href="/working-together">Working Together</a>
+            <a href="/working-together" {% if page.title == "Working Together" %}style="text-decoration:underline;"{% endif %}>Working Together</a>
           </section>
         </div>
 
@@ -174,22 +174,11 @@
 
         {{content}}
 
-        <div class="clearfix sans pt2 pb2" id="nav" style="line-height:1.5;">
-          <section class="col col-4 mr-auto">
-            <a href="/about">About Me</a>
-          </section>
-          <section class="col col-4 ml-auto mr-auto center">
-              <a href="mailto:casey@bullshit.systems">Contact ✉️</a> <a href="http://twitter.com/caseyg">🐦</a> <a href="http://github.com/caseyg">🐙</a>
-          </section>
-          <section class="col col-4 ml-auto right-align">
-              <a href="/resources">Resources and Library</a><br>
-              <!--<a href="/opinions">Opinion Pages</a><br>-->
-          </section>
-        </div>
-
     </div>
 
     <div class="bg-lightgray olive p3 center sans" style="height:50vh;">
+
+    <p>Got a project in mind? Get in touch: <a href="mailto:casey@bullshit.systems">casey@bullshit.systems</a></p>
 
     <figure class="p0 m0" style="width:250px; margin:75px auto;">
       <a href="#sisu" rel="modal:open"><img src="http://bullshit.systems/sisu.gif" alt="Monument to Finnish Sisu"></a>
@@ -209,9 +198,24 @@
       <p class="center"><a href="#" class="close" rel="modal:close">Close</a></p>
     </div>
 
-    <p>Got a project in mind? Get in touch: <a href="mailto:casey@bullshit.systems">casey@bullshit.systems</a></p>
-
     <p><span class="flower">🌸</span> Thank you for reading! <span class="flower">🌼</span></p>
+    </div>
+
+    <div class="container max-width-4 px2" style="margin:auto;">
+        <hr style="border:none;border-top: 1px dashed gray;">
+
+        <div class="clearfix sans pt2 pb2" id="nav" style="line-height:1.5;">
+          <section class="col col-4 mr-auto">
+            <a href="/about">About Casey</a>
+          </section>
+          <section class="col col-4 ml-auto mr-auto center">
+              <a href="mailto:casey@bullshit.systems">Contact ✉️</a> <a href="http://twitter.com/caseyg">🐦</a> <a href="http://github.com/caseyg">🐙</a>
+          </section>
+          <section class="col col-4 ml-auto right-align">
+              <a href="/resources">Resources and Library</a><br>
+              <!--<a href="/opinions">Opinion Pages</a><br>-->
+          </section>
+        </div>
     </div>
 
 </body>
