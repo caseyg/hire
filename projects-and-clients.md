@@ -235,7 +235,7 @@ I work primarily with clients in education and art; and I am especially interest
 
 <hr>
 
-<h1>Select Clients</h1>
+<h1>Clients</h1>
 
 [20x200](http://20x200.com), [American Ethnological Society](http://americanethnologist.org), [Andrew Badr](http://andrewbadr.com), [Atavist Books](https://atavist.com/), [Benjamin Degen](http://benjamindegen.com/), [Brian Funck](http://brianfunck.com), [Caitrin Lynch](http://engineeringathome.org), [Christina Xu](http://multientry.com), [Etsy](http://etsy.com), [Eyebeam](http://eyebeam.org/), [Girl Walk//All Day](https://www.kickstarter.com/projects/720656387/girl-walk-all-day), [Hope Gangloff](http://www.hopegangloff.net/), [Jennifer Brook](http://jenniferbrook.com), [Marwa Helal](http://marshelal.com/), [Olin College](http://aplusa.org/), [OpenNews Source](https://source.opennews.org/), [Pooool](http://pooool.info/), [Rodi Gallery](http://www.rodigallery.com/), [Sara Hendren](http://sarahendren.com), [School for Poetic Computation](http://sfpc.io), [Susan Inglett Gallery](http://inglettgallery.com), [Tom Healy](http://tomhealy.us)
 {:.h2}
