@@ -1,6 +1,5 @@
 ---
 title: "Process & Glossary"
-position: 3
 ---
 
 <style type="text/css">
