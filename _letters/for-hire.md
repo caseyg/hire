@@ -1,13 +1,8 @@
+---
 title: For Hire
--
 excerpt: I have a weird hunch (or maybe just a hope) that — because the internet is a weird place — my next move could be getting paid to do something with somebody who I already know and admire.
--
-tags: Work
--
 date: 2013 May
--
-content:
-
+---
 Hello friends and friends of friends,
 
 This May I'm graduating from Cooper Union and entering the <del>void</del> world...which means I'm looking for work as soon as possible.

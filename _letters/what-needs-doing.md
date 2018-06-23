@@ -1,17 +1,8 @@
+---
 title: What Needs Doing?
--
 excerpt: What needs doing? I'm available to take on new work.
--
-tags: Work, New York
--
-custom_stylesheet: @path/custom.css
--
 date: 2014 April
--
-hide_media: yes
--
-content:
-
+---
 Hi again, friends and friends-of-friends—
 
 What needs doing? I'm available to take on new work, now that two of my jobs are finished, two are being polished off, and two have turned into ongoing commitments that are small and sporadic.

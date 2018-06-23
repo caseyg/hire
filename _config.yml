@@ -11,6 +11,8 @@ collections:
     output: true
   conversations:
     output: true
+  letters:
+    output: true
 
 defaults:
   - scope:
@@ -22,4 +24,10 @@ defaults:
       path: ""
       type: resources
     values:
+      layout: default
+  - scope:
+      path: ""
+      type: letters
+    values:
+      permalink: /letters/:year/:title/
       layout: default
